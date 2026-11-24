@@ -10093,3 +10093,5 @@ audio/recorded/speech_center_validation_075.wav,other_speech,en,voices_validatio
 audio/recorded/speech_center_validation_076.wav,other_speech,en,voices_validation_en,validation,yes
 audio/recorded/speech_center_validation_077.wav,other_speech,en,voices_validation_en,validation,yes
 audio/recorded/speech_center_validation_079.wav,other_speech,en,voices_validation_en,validation,yes
+audio/recorded/Alvaro_es_wake_word_737a8eb569e448c4857ba6596025e048.wav,wake_word,es,Alvaro,train,yes
+audio/recorded/Alvaro_es_wake_word_1fce313e8dbb4c9fb900e5447f4fefbc.wav,wake_word,es,Alvaro,train,yes
